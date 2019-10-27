@@ -1,0 +1,6 @@
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csprojAssemblyReference.cache

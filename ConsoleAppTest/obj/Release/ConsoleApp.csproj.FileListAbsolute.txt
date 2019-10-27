@@ -1,0 +1,13 @@
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Release\NUnit3.TestAdapter.pdb
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Release\nunit.engine.dll
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Release\nunit.engine.api.dll
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Release\ConsoleAppTest.exe.config
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Release\ConsoleAppTest.exe
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Release\ConsoleAppTest.pdb
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Release\ConsoleAppTest.exe
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Release\ConsoleAppTest.pdb
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Release\nunit.framework.dll
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Release\nunit.framework.pdb
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\bin\Release\nunit.framework.xml
+C:\Users\Sławek\source\repos\ConsoleAppTest\ConsoleAppTest\obj\Release\ConsoleApp.csproj.CopyComplete
